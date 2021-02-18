@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1613648897 source:c:\users\micha\documents\arbeit\htl-kaindorf\lern_und_lehrunterlagen\2020_2021\aiit\3ahme\git-aiit_3ahme_2020\ue08_argvargc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

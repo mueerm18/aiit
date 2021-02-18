@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1610631179 source:c:\users\micha\documents\arbeit\htl-kaindorf\lern_und_lehrunterlagen\2020_2021\aiit\3ahme\codeblocks\ue04_ecg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1610631387 source:c:\users\micha\documents\arbeit\htl-kaindorf\lern_und_lehrunterlagen\2020_2021\aiit\3ahme\git-aiit_3ahme_2020\ue04_ecg\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

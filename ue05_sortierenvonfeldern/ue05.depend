@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1607629680 source:c:\users\micha\documents\arbeit\htl-kaindorf\lern_und_lehrunterlagen\2020_2021\aiit\3ahme\codeblocks\ue05\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1611842769 source:c:\users\micha\documents\arbeit\htl-kaindorf\lern_und_lehrunterlagen\2020_2021\aiit\3ahme\git-aiit_3ahme_2020\ue05_sortierenvonfeldern\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
