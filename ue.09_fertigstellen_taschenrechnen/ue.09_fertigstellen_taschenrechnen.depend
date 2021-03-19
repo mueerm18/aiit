@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1616160247 source:/home/erpic/Dokumente/Mechatronik/AIIT/ue.09_fertigstellen_taschenrechnen/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
