@@ -72,7 +72,8 @@ int eingabeText(char *textausgabe, char len, char *texteingabe)
          if(!ok){
           printf(" Ihre Eingabe ist zu lang. Bitte geben Sie einen Text mit maximal %d Zeichen ein \n", len);
         }
-        if(textausgabe != NULL){
+        if(textausgabe != NULL)
+        {
         printf(textausgabe);
         }
         fgets(s, len, stdin);
@@ -87,7 +88,8 @@ int eingabeText(char *textausgabe, char len, char *texteingabe)
     return 1;
 }
 
-int eingabeDatum (struct Datum *fahrtDarum){
+int eingabeDatum (struct Datum *fahrtDarum)
+{
 
    int tag;
    int monat;
